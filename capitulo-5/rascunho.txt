@@ -1,0 +1,2 @@
+* colocar uma persistência de dados na agenda telefonica, tenho o exemplo no chatgpt
+* fazer um programa que consuma uma api, previsão do tempo por exemplo. Olhar video sobre api do bro
